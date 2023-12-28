@@ -42,6 +42,3 @@ Feel free to customize the script to your preferences. Tweak parameters, add fea
 
 Contributions are welcome! Fork the repository and create a pull request with your enhancements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
