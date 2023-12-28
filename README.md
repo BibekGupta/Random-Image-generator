@@ -19,7 +19,6 @@ This Python script serves as the backbone for a dynamic Discord bot capable of g
 
 2. **Dependencies:**
    - Ensure you have Python installed.
-   - Install dependencies using `pip install -r requirements.txt`.
 
 3. **Configuration:**
    - Update the configuration settings in the `setting.py` file.
